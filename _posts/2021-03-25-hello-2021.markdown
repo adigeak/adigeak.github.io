@@ -1,0 +1,31 @@
+---
+layout:     post
+title:      "Hello 2021"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2021-03-25 12:00:00
+author:     "AD"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - Test
+    - Blog
+---
+
+> “Yeah It's on. ”
+
+
+Ad blog in times of vlog.
+
+[My story](#start)
+
+## Do you know what a blog is?
+
+If you don’t, then you’ve come to the wrong place. In 90's, when era of blogs began, a blog was more of a personal diary that people shared online content. In this online journal, you could talk about your daily life or share about things that you were doing. Then, people saw an opportunity to communicate information in a new way online. Thus began the beautiful world of blogging.
+
+### 30 year later
+
+Blog are become vlog. But still some people love to write and other to read. So content will florish is there are producer and consumer.
+
+
+<p id = "start"></p>
+It was in the summer of 2017 the bug of blogging came to my mind. It made me to start [my first blog](https://thinkalotthatsmyway.wordpress.com/2017/06/08/java-my-girlfriend/) or my journey of procrastination begin.
