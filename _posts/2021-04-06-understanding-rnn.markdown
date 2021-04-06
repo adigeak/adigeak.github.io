@@ -13,9 +13,9 @@ tags:
 Quick! complete the series A, B, C, D, E, F… That is easy right. Now try this Z, Y, X, W, V… Not that simple! How do we remember the same set of characters in a particular sequence and when the same set is to be recalled in a different way we struggle so hard. Take another example remember the lyrics of a song you know by heart and try singing it backwards, pretty tough isn’t it? It is easy to notice that the order in which the alphabets or the lyrics of a song occur is very important. Such problems where the **sequence or order** of the events is really important for predicting the next event are usually tackled by Recurrent Neural Networks or RNN. Speech recognition, language translation, stock market price prediction, music generation etc. all these tasks are performed by RNNs.
 
 Lets see a comparison between RNN and a simple feed forward neural network and why RNNs are better suited for sequence modelling.
-![img](../img/in_post/../in-post/post-rnn/rnn.png)
+![img](/img/in_post/../in-post/post-rnn/rnn.png)
 A simple feed forward neural network is really good at learning a pattern between a set of inputs and outputs. For example given an image the network can tell you whether the image contains a dog or not. But if you input another image of say an elephant followed by an image of a dog it has no context or memory of the dog’s image. It will classify the elephant’s image independently. This type of mechanism is not suited well to tasks which require previous context for making future predictions. For example lets say you have to predict the price of a stock —
-![](../img/in-post/post-rnn/stock_prie.jpeg)
+![stock](/img/in-post/post-rnn/stock_prie.jpeg)
 You can’t simply predict an arbitrary value for the stock price depending on the time. You will need to understand the trend of the stock, in other words you need to know how the stock price has been moving in the past to predict the future.
 Recurrent Neural Networks
 
