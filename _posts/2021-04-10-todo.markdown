@@ -1,0 +1,5 @@
+# Todo list
+- [ ] write a article about mfcc (mel frequency cepstral coefficients).
+- [ ] write blog about cross 9500$
+- [ ] write blog about lfx 3000$
+- [ ] write blog for learning go
