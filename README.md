@@ -2,7 +2,7 @@
 ================================
 
 > I want to give credit to huang xuan for the bolier plate content.
-> Looking to grow on this bolier plate. 
+> Looking to grow on this bolier plate. [contribute](https://github.com/huxpro)
 
 [User Manual 👉](_doc/Manual.md)
 --------------------------------------------------
