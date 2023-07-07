@@ -8,12 +8,6 @@
 
                 <p class="copyright text-muted">
                     Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}
-                    <!-- <br>
-                    Powered by <a href="http://huangxuan.me">Hux Blog</a> |
-                    <iframe style="margin-left: 2px; margin-bottom:-5px;" frameborder="0" scrolling="0" width="100px"
-                        height="20px"
-                        src="https://ghbtns.com/github-btn.html?user=huxpro&repo=huxpro.github.io&type=star&count=true">
-                    </iframe> -->
                 </p>
             </div>
         </div>
@@ -238,15 +232,15 @@
     function _render() {
         var lang = getLang()
         // en
-        if (lang == "en") {
-            $select.selectedIndex = 1;
+        if (lang == "zh") {
+            $select.selectedIndex = 0;
             $en.style.display = "block";
             $en.classList.add("active");
             $zh.style.display = "none";
             $zh.classList.remove("active");
-            // default to zh-cn
+            // default to En-IN
         } else {
-            $select.selectedIndex = 0;
+            $select.selectedIndex = 1;
             $zh.style.display = "block";
             $zh.classList.add("active");
             $en.style.display = "none";

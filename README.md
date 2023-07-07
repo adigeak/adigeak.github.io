@@ -42,3 +42,4 @@ Other Resources
 
 [Starter/Boilerplate](https://github.com/huxpro/huxblog-boilerplate)
 - Out of date. Helps wanted for updating it on par with the main repo
+ 
