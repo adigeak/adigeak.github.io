@@ -1,33 +1,49 @@
-Hi, I am _@huxpro_ (Huang, Xuan), an UI/Frontend engineer & designer, accidentally growing into a compiler hacker. My current interests range from programming languages theory and implementation in general (compiler, type system, type-based formal verification, virtual machine, runtime systems, garbage collection) to software engineering in the tech industry (client-side web/mobile app development, server-side backend, user interface and UX, developer infrastructure and DX). 
+### About Me
+#### Introduction
 
-I'm currently working on the [Hermes JavaScript Engine](https://hermesengine.dev/) at [Facebook](http://facebook.com/). I was also involved in some of the [Facebook Reality Labs](https://tech.fb.com/ar-vr/) and the [ReasonML](https://reasonml.github.io/) (now [ReScript](https://rescript-lang.org/)) efforts. I'm also passionated about [React](https://reactjs.org/) and [React Native](https://reactnative.dev/). 
+Hi, I'm Aditya ([01100001ditya](https://twitter.com/01100001ditya)), I'm a software engineer with experience in C,C++ and python, But i consider my self as tinker with hacker mentality. One who is curious about thing and system. From an early age, I have been driven by a fascination for making and breaking things.
 
-In the past, I worked on [Alitrip (Fliggy)](https://www.alitrip.com/) mobile and web apps under the [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), found and lead front-end infrastructure team at an unicorn startup company [Beijing Weiying (a.k.a. WePiao, now acquired by Maoyan)](https://www.crunchbase.com/organization/beijing-weiying-technology), and helped [Ele.me (now acquired by Alibaba)](https://en.wikipedia.org/wiki/Ele.me) to upgrade their mobile web site into [the first influential PWA (progressive web app) in China](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509).
+#### Education
 
-I studied BA, Digital Media Art at [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) and MS, Computer Science (with a focus on programming languages) at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology).
+* Bachelor of Technology (B.Tech) in Computer Science: KNIT Sultanpur, [2021]
 
-##### [My PL Spectrum (WIP 🚧)](https://huangxuan.me/2020/05/05/pl-chart/)
+#### Early On
 
-I made a chart to visualize my experiences and interests on some of the programming languages. I know. I know this is always contraversial. But it's just something quite self-entertaining to do. So bare with me and have fun reading that!
+During my Betech, I immersed myself in the world of computers and hardware, exploring the inner workings of machnine and system. That indeed increase my meataily and fuled my passion for the field.
+* I had the incredible opportunity to intern with the Gurgaon Police, where I focused on cyber security, specially machine learing and AI in thins domain. This internship allowed me to gain hands-on experience with software and hardware simultaneously.
+* ML Intern in IIT kanpur: 
+* Amidst the challenges posed by the COVID-19 pandemic, I was fortunate to secure an internship opportunity at Lohia Mechatronik in Kanpur, where I worked as an intern in industrial machine vision. This invaluable experience allowed me to apply my knowledge to real-world challenges in the field of plastic machine manufacturing. It provided me with practical exposure and a deeper understanding of the practical applications of computer vision in an industrial setting.
 
-##### Appearence
+#### Projects and Exploration
 
-- [Upgrading to Progressive Web Apps][9] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI Guangzhou 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux Beijing 2017
-- PWA Rehashing · Baidu HQ Beijing 2017
-- [Service Worker 101][5] · GDG DevFest Beijing 2016
-- [Progressive Web Apps][4] · QCon Shanghai 2016
-- Progressive Web App in my POV · GDG IO Redux Beijing 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript Modularization Journey][1] · 2015
+Significant projects done at that time:
+1. OSINT (Open-Source Intelligence) gathering tool: I learned to extract valuable information from various online sources. This experience helped me understand the importance of data and its implications in the real world.
+    
+2. Real time facial recognition: I have also worked on a project focused on real-time facial recognition. Utilizing computer vision techniques, I developed an application that employed Haar cascades for face tracking and a deep neural network for face recognition against a pre-existing database. This project enhanced my skills in image processing and machine learning.
 
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
+3. Smart complaint analyzer: This system had multiple components, including a full-stack application with a Flask backend, Android app, web app, Firebase database, and integrated email and forwarding capabilities. With the integration of natural language processing (NLP), this system was able to analyze and categorize customer complaints efficiently. Through these projects, I have gained hands-on experience in various aspects of software development, including data extraction, computer vision, machine learning, and full-stack development.
+
+[many more](https://github.com/adigeak)
+
+##### Journey in Computer Vision
+
+Driven by my passion for computer vision, I undertook various projects that involved object tracking, human pose detection, and more. These projects not only provided me with valuable technical skills but also taught me the importance of strong foundations in this exciting field. I realized that in order to excel in computer vision, it is crucial to have a deep understanding of the underlying concepts and fundamentals.
+
+#### Professional Experience
+
+life at lohia
+
+#### Future
+
+As I continue on my journey, I am determined to pursue a Master's degree in Computer science to further expand my knowledge and expertise. My ultimate goal is to contribute to the development of innovative solutions that can positively impact various industries and address real-world challenges.
+
+#### Conclusion
+
+I am truly passionate about the field of computer vision and the endless possibilities it holds. I am excited to continue learning, exploring, and contributing to this rapidly evolving field. With a strong foundation, practical experience, and an unwavering drive to make a difference, I am ready to embrace new challenges and contribute to the advancement of computer vision technology.
+
+Feel free to reach out to me for collaborations, discussions, or any opportunities that align with my interests and aspirations.
+
+Thank you for visiting my page!
+
+Aditya
+
