@@ -3,6 +3,8 @@
 
 Hi, I'm Aditya ([01100001ditya](https://twitter.com/01100001ditya)), I'm a software engineer with experience in C,C++ and python, But i consider my self as tinker with hacker mentality. One who is curious about thing and system. From an early age, I have been driven by a fascination for making and breaking things.
 
+[Resume](https://drive.google.com/file/d/17LPxGSf9d17dbB_ix945Y_urWCfioORb/view?usp=sharing)
+
 #### Education
 
 * Bachelor of Technology (B.Tech) in Computer Science: KNIT Sultanpur, [2021]
