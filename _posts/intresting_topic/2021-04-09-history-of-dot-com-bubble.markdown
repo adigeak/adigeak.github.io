@@ -4,7 +4,7 @@ title:      "Understanding Dot-com bubble "
 subtitle:   " \"What the Dot-com bubble can teach us in 2021\""
 date:       2021-04-09 12:00:00
 author:     "AD"
-header-img: "img/in-post/post-intresting/post-dotcom/dotcom.png"
+header-img: "img/in-post/post-intresting/post-dotcom/dotcom.jpeg"
 catalog: true
 tags:
     - History
@@ -13,6 +13,7 @@ tags:
 
 Dot-com in the era in which the company related to internet and technolgy stocks are plumtting. Many startup was on the rapid rise and there stock prices are soring which was fuled my the investement.
 It was the time when profitibiltiy come long way down and everyone see the future in internet compnay. It all come crassing down one day. 
+![hey](/img/about-bg.jpg)
 
 We can divide the boom in two era:
 
