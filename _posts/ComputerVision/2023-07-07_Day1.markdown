@@ -9,3 +9,38 @@ catalog: true
 tags:
     - Tag
 ---
+Area of interst in Computer Vision.
+
+* Factory Automation 
+  * Visual Inspection in high speed line.
+  * Assemble line automation with vision guided robot.
+* OCR
+  * Packaging and delivery 
+  * License plate recognition
+* Biometric Recognition
+  * Iris scaning
+  * face detection and recognition
+* AI Based Marketing
+  * Billboard based on person that is looking at it
+* Security
+  * obejct detection and tracking
+* Human Computer Intraction
+  * gesture control
+  * optical mouse
+* Gaming and Visual Effect 
+  * kinect and xbox
+  * motion and performance capture
+* Augumented Reality
+  * Snapchat 
+  * instagram camera
+* Visual Search
+  * google image search
+* Autonomous Navigation
+  * Space Exploration 
+  * Disaster zone management 
+  * Driverless car
+* Remote Sensing
+  * Mapping earth
+* Medical Image Analysis
+  * MRI, Xray
+  * Tumor detection
