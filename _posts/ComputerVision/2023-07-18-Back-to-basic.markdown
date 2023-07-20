@@ -7,7 +7,8 @@ author:     "AD"
 header-img: "img/post-bg-halting.jpg"
 catalog: true
 tags:
-    - Tag
+    - CV
+    - ML
 ---
 #### Area of interst in Computer Vision.
 

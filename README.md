@@ -2,7 +2,7 @@
 ================================
 
 > I want to give credit to huang xuan for the bolier plate content.
-> Looking to grow on this bolier plate. [contribute](https://github.com/huxpro)
+> Looking to grow on this bolier plate. [contribute](https://github.com/ADpro)
 
 [User Manual 👉](_doc/Manual.md)
 --------------------------------------------------
@@ -40,6 +40,6 @@ This theme uses the default code syntax highlighter of jekyll, [Rouge](http://ro
 Other Resources
 ---------------
 
-[Starter/Boilerplate](https://github.com/huxpro/huxblog-boilerplate)
+[Starter/Boilerplate](https://github.com/ADpro/ADblog-boilerplate)
 - Out of date. Helps wanted for updating it on par with the main repo
  
