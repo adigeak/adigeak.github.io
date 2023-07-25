@@ -1,0 +1,36 @@
+---
+layout:     post
+title:      "Learning step in CV"
+subtitle:   " \"Step by step path\""
+date:       2023-07-25 09:00:00
+author:     "AD"
+header-img: "img/post_bg_cv.png"
+catalog: true
+tags:
+    - Step
+    - CV
+    - Learning
+---
+
+### List of steps
+
+- [X] Read an image from file
+- [ ] Display an image that you read from file
+- [ ] Capture Video using your webcam and display the feed
+- [ ] Display back and white live stream from your webcam.
+- [ ] Have a slider to change brightness of the webcam live stream. Display.
+- [ ] Have a slider to change contrast of the webcam live stream. Display.
+- [ ] Capture a snapshot from your webcam. Then display difference between live video stream and this snapshot. (Background subtraction)
+- [ ] Display Canny edge image from your live webcam stream
+- [ ] Have a slider to change smoothness / sharpness of image from live webcam stream.
+- [ ] Display histogram of colors (RGB) from your live webcam stream
+- [ ] Perform histogram equalization and display results both raw and equalized.
+- [ ] Read two different images of same size (taken from your camera). Animate blending between them.
+- [ ] Build a two object recognizer but using background subtraction and color histogram distances.
+- [ ] Add edge histogram distances to your two object recognizer above.
+- [ ] Draw SIFT / ORB / AKAZE keypoints on an image
+- [ ] Use SIFT feature matching to identify and locate an item in your two item recognizer
+- [ ] Learn to draw white circles and rectangles on a black image
+- [ ] Find disconnected blobs in an image
+- [ ] Draw boundingRect and minAreaRect around each blob in an image
+- [ ] Given a few random shaped blobs in an image, and one of those random blobs as a template, do template matching to find the location of the blob in the image.
