@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "PDF to Kindle"
+title:      "Read your ;) PDF Kindle"
 subtitle:   " \"Sending pdf to kindle made EASY!!\""
 date:       2023-08-28 17:27:00
 author:     "AD"
