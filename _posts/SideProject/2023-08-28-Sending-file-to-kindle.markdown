@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Read your ;) PDF Kindle"
+title:      "Read your ;) PDF in Kindle"
 subtitle:   " \"Sending pdf to kindle made EASY!!\""
 date:       2023-08-28 17:27:00
 author:     "AD"
@@ -46,3 +46,8 @@ This script allows you to send PDF files to your Amazon Kindle device through em
 ```python sendkindle.py```
 4. The script will send each PDF file as an email attachment to your Kindle's email address. Successfully sent files will be moved to the Sent directory.
 5. Check your Kindle device. The sent PDF files should appear in your Kindle library shortly.
+
+## Future upgrade
+
+1. Make a GUI interface
+2. Make a EXE file for windows
