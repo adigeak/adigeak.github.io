@@ -4,7 +4,7 @@ title:      "SOP for living my dream life"
 subtitle:   "\"Making an guideline for my dreamlife!!\""
 date:       2024-06-06 15:27:00
 author:     "AD"
-header-img: "img/post-bg-vision-board.png"
+header-img: "img/post-bg-universe.jpg"
 catalog: true
 tags:
     - Life
@@ -45,3 +45,5 @@ I recognize the importance of **perseverance and calculated risks**. I understan
 While money can be accumulated, time is finite. I prioritize my time fiercely, ensuring it's spent on activities that align with my values and aspirations.
 
 In conclusion, my dream life is a roadmap for **purposeful living**. By combining my core beliefs with strong life principles, I strive to make a positive impact on the world while enjoying the freedom to pursue my passions. This blueprint can inspire you to craft your own dream life, one that is both fulfilling and impactful.
+
+![image](/img/post-bg-vision-board.png)
