@@ -147,6 +147,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * GameChanger <http://tech.gc.com/>
 * GIPHY <https://engineering.giphy.com/>
 * GitHub <https://githubengineering.com/>
+* Github <https://github.blog/engineering/>
 * GitHub Old <https://github.com/blog/category/engineering>
 * GoCardless <https://gocardless.com/blog/tagged/engineering/>
 * GoDaddy <https://godaddy.github.io/engineering/>
