@@ -2,14 +2,13 @@
 layout:     post
 title:      "Engineering Blogs"
 subtitle:   " \"In world of fragmented knowledge, here is the list\""
-date:       2023-07-31 12:00:00
+date:       2024-08-07 20:08:00
 author:     "AD"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - Vlog
-    - Blog
-    - Log
+    - blog
+    - list
 ---
 
 A curated list of engineering blogs of startup and enterprise companies.
