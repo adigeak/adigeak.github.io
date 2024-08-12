@@ -11,7 +11,7 @@ tags:
     - list
 ---
 
-A curated list of engineering blogs of startup and enterprise companies.
+A curated list of engineering blogs of startup and enterprise companies. (Compiled from various sources in internet)
 
 ## List
 
