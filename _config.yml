@@ -22,14 +22,12 @@ highlighter: rouge # Use Rouge for code highlighting
 permalink: pretty
 paginate: 5 # Number of posts per page
 exclude:
-    [
-        "less",
-        "node_modules",
-        "Gruntfile.js",
-        "package.json",
-        "README.md",
-        "README.zh.md",
-    ]
+    - less
+    - node_modules
+    - Gruntfile.js
+    - package.json
+    - README.md
+    - README.zh.md
 anchorjs: true # Enable Anchor.js for headers
 
 # Timezone settings
@@ -77,10 +75,12 @@ page-mathjax: false
 
 # Friends (Optional)
 friends:
-    [
-        { title: "Aditya's GitHub", href: "https://github.com/adigeak" },
-        {
-            title: "Aditya's LinkedIn",
-            href: "https://www.linkedin.com/in/adigeak/",
-        },
-    ]
+    - title: "Aditya's GitHub"
+      href: "https://github.com/adigeak"
+    - title: "Aditya's LinkedIn"
+      href: "https://www.linkedin.com/in/adigeak/"
+
+# Add the collections section here
+collections:
+    portfolio:
+        output: true

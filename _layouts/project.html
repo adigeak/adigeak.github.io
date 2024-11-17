@@ -1,0 +1,113 @@
+---
+layout: default
+multilingual: false
+---
+
+<!-- Portfolio Header need to be created-->
+{% include intro-header.html type='post' %}
+
+<!-- Portfolio Content -->
+<article>
+    <div class="container">
+        <div class="row">
+
+            <!-- Portfolio Item Container -->
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                post-container">
+
+                <!-- Multi-Lingual -->
+                {% if page.multilingual %}
+                    {% include multilingual-sel.html %}
+                {% endif %}
+
+                <!-- Portfolio Title and Description -->
+                <h1>{{ page.title }}</h1>
+                <p>{{ page.description }}</p>
+
+                <!-- Portfolio Image -->
+                {% if page.image %}
+                <div class="portfolio-image">
+                    <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.title }}" class="img-responsive">
+                </div>
+                {% endif %}
+
+                <!-- Portfolio Content -->
+                <div class="portfolio-content">
+                    {{ content }}
+                </div>
+
+                <hr style="visibility: hidden;">
+
+                <!-- Navigation -->
+                <ul class="pager">
+                    {% if page.previous.url %}
+                    <li class="previous">
+                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">
+                        Previous<br>
+                        <span>{{ page.previous.title }}</span>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if page.next.url %}
+                    <li class="next">
+                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">
+                        Next<br>
+                        <span>{{ page.next.title }}</span>
+                        </a>
+                    </li>
+                    {% endif %}
+                </ul>
+                <hr style="visibility: hidden;">
+
+                {% if site.disqus_username %}
+                <!-- Disqus Comment Section -->
+                <div class="comment">
+                    <div id="disqus_thread" class="disqus-thread"></div>
+                </div>
+                {% endif %}
+
+            </div>
+
+            <!-- Sidebar (Optional) -->
+            {% unless page.no-catalog %}
+            <div class="
+                col-lg-2 col-lg-offset-0
+                visible-lg-block
+                sidebar-container
+                catalog-container">
+                <div class="side-catalog">
+                    <hr class="hidden-sm hidden-xs">
+                    <h5>
+                        <a class="catalog-toggle" href="#">CATALOG</a>
+                    </h5>
+                    <ul class="catalog-body"></ul>
+                </div>
+            </div>
+            {% endunless %}
+
+        </div>
+    </div>
+</article>
+
+<!-- Support for mathjax (if enabled) -->
+{% if page.mathjax %}
+  {% include mathjax_support.html %}
+{% endif %}
+
+<!-- Disqus Comments -->
+{% if site.disqus_username %}
+<script type="text/javascript">
+    var disqus_shortname = "{{ site.disqus_username }}";
+    var disqus_identifier = "{{ page.id }}";
+    var disqus_url = "{{ site.url }}{{ page.url }}";
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+{% endif %}
+
