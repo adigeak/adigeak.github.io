@@ -1,110 +1,86 @@
 # Site settings
 title: Aditya Blog
-SEOTitle: AD Blog | Aditya Blog 
+SEOTitle: AD Blog | Aditya Blog
 header-img: img/home-bg.jpg
 email: Mr.adityasaritasingh@gmail.com
-description: "Software Engineer, Quizzer, DIY, and rf enthusiast "
-keyword: "Machine Learning, computer vision, Quiz"
-url: "https://adigeak.github.io"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+description: "Software Engineer, Product Manager, Quizzer, DIY enthusiast, and Hacker"
+keyword: "Product Management, Product Designer, Machine Learning, Computer Vision, Quiz"
+url: "https://adigeak.github.io" # Your host, for absolute URL
+baseurl: "" # For example, '/blog' if your blog is hosted on 'host/blog'
 
-# Publish posts or collection documents with a future date.
+# Publish posts or collection documents with a future date
 future: true
 
 # SNS settings
-RSS: false
-github_username:    adigeak
-twitter_username:   01100001ditya
-#facebook_username:  
-#linkedin_username:  
-
-
+RSS: true # Enable RSS feed
+github_username: adigeak
+twitter_username: 01100001ditya
+linkedin_username: adigeak # Add LinkedIn username
 
 # Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
-highlighter: rouge
+highlighter: rouge # Use Rouge for code highlighting
 permalink: pretty
-paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
-# If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN  
+paginate: 5 # Number of posts per page
+exclude:
+    [
+        "less",
+        "node_modules",
+        "Gruntfile.js",
+        "package.json",
+        "README.md",
+        "README.zh.md",
+    ]
+anchorjs: true # Enable Anchor.js for headers
 
+# Timezone settings
+timezone: Asia/Kolkata # Set timezone
 
-
-# Gems
-# from PR#40, to support local preview for Jekyll 3.0
-# make sure you have this gem installed
-# `$ gem install jekyll-paginate`
-plugins: [jekyll-paginate]
-
-
+# Plugins
+plugins:
+    - jekyll-paginate
 
 # Markdown settings
-# replace redcarpet to kramdown,
-# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
-# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
-  syntax_highlighter_opts:
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
-
-
+    input: GFM
+    syntax_highlighter_opts:
+        span:
+            line_numbers: false
+        block:
+            line_numbers: true
+            start_line: 1
 
 # Disqus settings
-# disqus_username: ASR
+# disqus_username: aditya_blog # Add Disqus username
 
 # Netease settings
 netease_comment: false
 
-
-
 # Analytics settings
-# Baidu Analytics 
-# ba_track_id: [your track id]
-
-# Google Analytics
-# ga_track_id:             # Format: UA-xxxxxx-xx
-# ga_domain: 
-
-
+# google_analytics: UA-12345678-1 # Add your Google Analytics ID
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Quizzer, Hobbyist <br> An AI/ML dev & designer accidentally fell love with electronics."
-sidebar-avatar: /img/avatar-ad.png     # use absolute URL, seeing it's used in both `/` and `/about/`
-
-
+sidebar: true
+sidebar-about-description: "Product Manager, Quizzer, Hobbyist <br> An AI/ML developer & designer who accidentally fell in love with electronics and product design."
+sidebar-avatar: /img/avatar-ad.png
 
 # Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
-
-
+featured-tags: true
+featured-condition-size: 1
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-
-
-# MathJax rendering for layout:page (e.g. post preview)
+# MathJax rendering for layout:page
 page-mathjax: false
 
-
-
-# Friends
-# friends: [
-#     {
-#     #     title: "Su",
-#     #     href: "http://su.gallery/"
-#     # },{
-#         title: "乱序（Midare）",
-#         href: "http://mida.re/"
-#     }
-# ]
+# Friends (Optional)
+friends:
+    [
+        { title: "Aditya's GitHub", href: "https://github.com/adigeak" },
+        {
+            title: "Aditya's LinkedIn",
+            href: "https://www.linkedin.com/in/adigeak/",
+        },
+    ]
