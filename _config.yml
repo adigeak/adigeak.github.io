@@ -79,8 +79,7 @@ friends:
       href: "https://github.com/adigeak"
     - title: "Aditya's LinkedIn"
       href: "https://www.linkedin.com/in/adigeak/"
-
 # Add the collections section here
-collections:
-    portfolio:
-        output: true
+# collections:
+#     portfolio:
+#         output: true
