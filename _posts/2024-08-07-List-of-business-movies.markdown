@@ -4,7 +4,7 @@ title:      "Business Movies"
 subtitle:   " \"A List Of Top Rated Movies Of All Time\""
 date:       2024-12-29 10:08:00
 author:     "AD"
-header-img: "img/post-movie.webp"
+header-img: "img/post-bg-os-metro.jpg"
 catalog: true
 tags:
     - blog
