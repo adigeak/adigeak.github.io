@@ -51,6 +51,12 @@ Here is my list of top movies with entrepreneurial spirit, they provide valuable
         * A scrappy startup can compete against the incumbents
         * Don’t allow feelings to override what the data’s telling you.
 
+    * **Air (2023):** This film tells the story of how Nike, then an underdog in the basketball shoe market, pursued and ultimately signed Michael Jordan, creating the iconic Air Jordan brand.
+      * Key Themes:
+        * Recognizing and seizing opportunities; the importance of believing in your vision even when others don't. 
+        * The power of strategic partnerships.
+        * Understanding the value of talent and brand building.
+
 3. **Learning from Mistakes**
 
    * **The Wolf of Wall Street (2013):** A cautionary tale of greed and excess on Wall Street.
