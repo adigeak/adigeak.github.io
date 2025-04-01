@@ -15,7 +15,7 @@ tags:
 
 > “Keep Growing”
 
-Link of our study: [Link](https://mradityasaritasingh.github.io/assets/pdf/AdityaSingh_MAD.pdf)
+Link of our study: [Link](https://mradityasaritasingh.github.io/case%20study/casestudy-nalsar/)
 
 [Our journey](#start)
 
