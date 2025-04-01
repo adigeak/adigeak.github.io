@@ -4,7 +4,7 @@ title:      "Our Case Crack Chronicles"
 subtitle:   " \"Gramin EVs & Rural Dreams\""
 date:       2025-04-01 12:00:00
 author:     "AD"
-header-img: "img/post-bg-case.png"
+header-img: "img/post-bg-e2e-ux.jpg"
 catalog: true
 tags:
     - Case Competition
@@ -14,6 +14,8 @@ tags:
 ---
 
 > “Keep Growing”
+
+Link of our study: [Link](https://mradityasaritasingh.github.io/assets/pdf/AdityaSingh_MAD.pdf)
 
 [Our journey](#start)
 
@@ -64,7 +66,6 @@ We left with a sharper brain, stronger bond as a team, and a deeper appreciation
 
 In a heartbeat. Because in the end, it’s not just about winning cases — it’s about making a case *for something that matters*.
 
-[Link](https://mradityasaritasingh.github.io/assets/pdf/AdityaSingh_MAD.pdf)
 
 ---
 
