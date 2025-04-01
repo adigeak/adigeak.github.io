@@ -1,13 +1,18 @@
 ### About Me
 #### Introduction
 
-Hi, I'm Aditya ([01100001ditya](https://twitter.com/01100001ditya)), I'm a software engineer with experience in C,C++ and python, But i consider my self as tinker with hacker mentality. One who is curious about thing and system. From an early age, I have been driven by a fascination for making and breaking things.
+Hi there!!
 
-[Resume](https://drive.google.com/file/d/17LPxGSf9d17dbB_ix945Y_urWCfioORb/view?usp=sharing)
+I'm a Software Engineer with over four years of experience building products especially for the packaging and heavy industry. I'm currently transitioning into Product Management roles, plus doing master from IIIT Hyderabad. I'm experience in C++, C#, python with worked in computer vision application. My background as a "tinkerer with a hacker mentality" fuels my curiosity for understanding systems and now user needs.
+
+From developer to product leader, I'm driven by the challenge of translating user needs and insights into solutions fits the user needs. My experience developing software for the not so conventional industry (manufacturing of machine from india for world) bringing a unique perspective. This unconventional sector has provided me with a understanding of the product development lifecycle, including extensive interaction with stakeholders at all levels, from operators to C-suite executives, to ensure our products effectively address their diverse needs.
+
+[Resume](https://drive.google.com/drive/folders/1S7-XrgFijp-Jpd7bezqt1QFVx8VNaWlQ?usp=drive_link)
 
 #### Education
 
-* Bachelor of Technology (B.Tech) in Computer Science: KNIT Sultanpur, [2021]
+* Master of Technology (M.Tech) in Product Design & Managment(PDM): IIIT Hyderabad, [2024-2026]
+* Bachelor of Technology (B.Tech) in Computer Science: KNIT Sultanpur, [2017-2021]
 
 #### Early On
 
