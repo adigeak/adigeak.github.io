@@ -4,7 +4,7 @@ title: "UX Laws with Practical Examples"
 subtitle: "A guide to key design principles with real world application, inspired by the work of Carlos Beneyto."
 date: 2025-11-13
 author: "AD"
-header-img: "img/ux-law-1.png"
+header-img: "img/post-bg-e2e-ux.jpg"
 tags: []
 ---
 
