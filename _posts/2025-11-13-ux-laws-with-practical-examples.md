@@ -89,7 +89,7 @@ Basically, it describes that it is easier to understand and assimilate a square 
 
 What does this mean? What do we see before, figure A, B or C? obviously the A, because our brain understands that it is the simplest possible way that we have to associate. An example of practical use would be:
 
-### Why is the “Add to cart” button not a cart, but a square?.
+> "Why is the “Add to cart” button not a cart, but a square?"
 
 ## Law of Proximity
 
